@@ -1,7 +1,7 @@
-#**THE FROGGER GAME**
-##**How To Run**
+# **THE FROGGER GAME**
+## **How To Run**
 * **Click** on the index.html file to start the game.
-##**How To Play**
+## **How To Play**
 The following are the instructions on how to play the game
 
 * When you **open** the game you will see a _boy character_ at the bottom center of the window.. which represents the **player** character and also four **enemy** characters moving with the intention of attacking the player character when he enters the area.
