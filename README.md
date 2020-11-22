@@ -12,4 +12,4 @@ The following are the instructions on how to play the game
 * This means that if the player **collides** with the enemy character in between, he will have to start again.
 * You have successfully completed the game when you see the **'Congratulations!! You did it!!'** message on the screen.
 
-					 *******HAVE FUN PLAYING!!!******* 
+					 ******* HAVE FUN PLAYING!!! ******* 
